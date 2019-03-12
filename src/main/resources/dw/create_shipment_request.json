@@ -1,0 +1,94 @@
+{
+  "pickup": {
+    "user": {
+      "name": "Yummy Restaurant ",
+      "phone_no": "6011111111",
+      "external_id": " YUM 01",
+      "type": "merchant",
+      "full_address": {
+        "address": "Leela Landmark, 1st Cross, Ashwini Layout",
+        "city": {
+          "name": "Bangalore"
+        },
+        "geo": {
+          "latitude": "12.9394382",
+          "longitude": "77.6269071"
+        }
+      }
+    }
+  },
+  "drop": {
+    "user": {
+      "name": "Road Runnr",
+      "phone_no": "962072299166",
+      "external_id": " YUM CUSTOMER 01",
+      "type": "customer",
+      "full_address": {
+        "address": "345,221st street,kormangala",
+        "locality": {
+          "name": "Koramangala"
+        },
+        "city": {
+          "name": "Bangalore"
+        }
+      }
+    }
+  },
+  "order_details": {
+    "order_id": "YUM1239",
+    "order_value": "548",
+    "amount_to_be_collected": "548",
+    "amount_to_be_paid": "548",
+    "order_type": {
+      "name": "CashOnDelivery"
+    },
+    "order_items": [
+      {
+        "quantity": "2",
+        "price": "44",
+        "item": {
+          "name": "Vada Pav"
+        }
+      },
+      {
+        "quantity": "1",
+        "price": "415",
+        "item": {
+          "name": "Chocalate Brownie"
+        }
+      }
+    ]
+  },
+  "created_at": "2016-02-29 22:32"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
